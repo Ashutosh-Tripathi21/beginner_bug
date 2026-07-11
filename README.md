@@ -1,4 +1,4 @@
 # beginner_bug
 This is Beginner Repository 
 <br>
-Author - Ashutosh Tripathi
+Author - Ashutosh (apna collage)
